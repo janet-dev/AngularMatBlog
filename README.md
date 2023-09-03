@@ -1,6 +1,6 @@
 # AngularMatBlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.12.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.12 with the help of tutorial [Angular Material Course 2022](https://www.youtube.com/watch?v=DaE_RpWRlJI&t=4285s) by Sarthak Shrivastava [@sarthaksavvy](https://github.com/bitfumes/angular-material-2022) on GitHub.
 
 ## Development server
 
